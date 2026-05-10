@@ -58,6 +58,6 @@ Charotar Science and Technology University - CGPA: 8.61/10
 &nbsp;
 <a href="https://github.com/Nirjar26" style="text-decoration:none; display:inline-block; line-height:0;"><img src="Social%20Icons/github.svg" width=46" height="76" alt="GitHub" style="display:block;" /></a>
 </p>
-<a href="https://hashnode.com/@nirjxr" style="text-decoration:none; display:inline-block; line-height:0;">
+<!-- <a href="https://hashnode.com/@nirjxr" style="text-decoration:none; display:inline-block; line-height:0;">
   <img src="Social%20Icons/hashnode.svg" width="46" height="76" alt="Hashnode" style="display:block;" />
-</a>
+</a> -->
